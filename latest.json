@@ -1,0 +1,7 @@
+{
+    "versionCode":  11410,
+    "versionName":  "0.1.14-poc10",
+    "apkUrl":  "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11410/TahdiriPro-Android-0.1.14-poc10-arm64.apk",
+    "sha256":  "eb7fab6536138f5fc8f0e409086c4dd85031e21005e1b6ba5cb7b6af7fd736f2",
+    "notes":  "إصلاح الشاشة البيضاء وإضافة التحديث من داخل التطبيق مع بقاء واجهة الجدول المعتمدة كما هي."
+}
