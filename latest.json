@@ -1,7 +1,7 @@
 {
-  "versionCode": 11412,
-  "versionName": "0.1.14-poc12-poc7-livefix",
-  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11412/TahdiriPro-Android-0.1.14-poc12-poc7-livefix-arm64.apk",
-  "sha256": "f98f0868da1dcbc00f3813be9b4f719ff9be36e9256f83fa532835fa2255eb5b",
-  "notes": "إصلاح تحضير أندرويد المبني على POC7: مزامنة خيارات الواجب والاختبار والأنشطة من أول فتح، وإصلاح جسر reCAPTCHA في Gecko مع الحفاظ على واجهة الجدول المعتمدة ومسار GetCal المعروف بالنجاح. يلزم اختبار حصة واحدة فعلية لاعتماد Android Preparation Parity."
+  "versionCode": 11413,
+  "versionName": "0.1.14-poc13-poc7-gecko-formdata",
+  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11413/TahdiriPro-Android-0.1.14-poc13-poc7-gecko-formdata-arm64.apk",
+  "sha256": "3db39459a1c67289c1cac809e3bf0d302dcd77b06a64be5acdbdca11c9a48b4e",
+  "notes": "إصلاح فشل التحضير PRODUCT_GROUP_LIVE_FAILED: iterable is not iterable في أندرويد/Gecko. تم إصلاح تعداد FormData في مسار التنقية والتسجيل قبل الحفظ مع الحفاظ على POC7 وخيارات POC12. يلزم اختبار حصة واحدة فعلية لاعتماد Android Preparation Parity."
 }
