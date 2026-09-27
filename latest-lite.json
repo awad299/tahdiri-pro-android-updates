@@ -1,0 +1,10 @@
+{
+    "versionCode":  11528,
+    "versionName":  "0.1.14-webview-lite28-verified-tree-name-contract",
+    "packageName":  "sa.tahdiripro.mobile.litepilot",
+    "apkUrl":  "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11528/TahdiriPro-Android-0.1.14-webview-lite28-verified-tree-name-contract.apk",
+    "sha256":  "70f665e1aa18ba10de7d37950d13d9f3802238e2d11efacdb913559f59b25cdb",
+    "notes":  "نسخة Lite28 المعتمدة بعد نجاح الاختيار الذكي ثم حفظ وتحضير الدروس فعليًا على أندرويد. تجمع عقد الشجرة المثبت بالنجاح Live وتنظيف اسم الدرس واسترجاع معرفات النشاط والواجب دون إعادة إرسال عمليات الإنشاء.",
+    "status":  "stable",
+    "liveVerified":  true
+}
