@@ -2,7 +2,7 @@
   "versionCode": 11700,
   "versionName": "0.1.17",
   "exeUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11700/TahdiriPro-Windows-0.1.17.exe",
-  "sha256": "7324ffd0a69a7f22ca9858943a889101fe58f86259521af980e8cf68bff9500d",
-  "notes": "Windows 0.1.17 يضيف التحديث عن بُعد للإصدارات التالية مع التحقق من SHA-256 ومصدر التنزيل قبل استبدال المشغل وإعادة فتحه.",
+  "sha256": "26f3ac3d1af63174a801214925cb741e2c897a52327f379461fd3eed642b2f06",
+  "notes": "Windows 0.1.17 يضيف التحديث عن بُعد للإصدارات التالية مع التحقق من SHA-256 ومصدر التنزيل، وينتظر خروج المشغل بأمان قبل استبداله وإعادة فتح النسخة الجديدة.",
   "status": "stable"
 }
