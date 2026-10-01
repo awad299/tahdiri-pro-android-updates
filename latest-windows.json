@@ -1,9 +1,9 @@
 {
-  "versionCode": 12001,
-  "versionName": "0.1.21",
-  "exeUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v12001/TahdiriPro-Windows-0.1.21-Secure.exe",
-  "sha256": "49bb5c843996e6a60b678a7a0655de84236d86618538bea72c1e1734982b4c02",
+  "versionCode": 12002,
+  "versionName": "0.1.22",
+  "exeUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v12002/TahdiriPro-Windows-0.1.22-Secure.exe",
+  "sha256": "aa690285b3e42b7747f8728c63170d9e3d46e6dee69019288dfa0ae2915d7f2b",
   "status": "stable",
   "securityChannel": "secure-v2",
-  "notes": "فورمز، الكتب الدراسية الرسمية من مدرستي، PowerPoint من 7 شرائح، وإكمال أدوات المعلم والخطط وإدارة التحضير."
+  "notes": "واجهة جديدة بأربع نوافذ رئيسية مرتبة، تنظيم حديث للخدمات، وتحسين عرض الجوال مع استمرار جميع خدمات المعلم."
 }
