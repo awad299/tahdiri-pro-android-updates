@@ -3,9 +3,9 @@
   "versionName": "0.2.2",
   "packageName": "sa.tahdiripro.mobile.litepilot",
   "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11603/TahdiriPro-Android-0.2.2-v11603.apk",
-  "sha256": "1724c8280b1910810635b47b0e05e8d73cdacd484247659f7498b6751550a171",
+  "sha256": "cd69d7e8eb6530256dc333d8e0f02635b4b9a8036f083184cfc3233a4448173e",
   "signerSha256": "0b204fddd59ce9f9dd563d68e4188173c316be2e110c8823a57977a7401c4896",
   "status": "stable",
   "securityChannel": "secure-v2",
-  "notes": "إضافة PowerPoint وفورمز والكتب الدراسية وتوسعة أدوات المعلم والتقارير وإدارة التحضير، مع استمرار التحديث والأمان الموقّع."
+  "notes": "فورمز، الكتب الدراسية الرسمية من مدرستي، PowerPoint من 7 شرائح، وإكمال أدوات المعلم والخطط وإدارة التحضير."
 }
