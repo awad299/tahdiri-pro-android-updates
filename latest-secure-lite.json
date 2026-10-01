@@ -1,11 +1,11 @@
 {
-  "versionCode": 11600,
-  "versionName": "0.2.0-secure1",
+  "versionCode": 11601,
+  "versionName": "0.2.0-secure2",
   "packageName": "sa.tahdiripro.mobile.litepilot",
-  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11600/TahdiriPro-Android-0.2.0-secure1.apk",
-  "sha256": "a91548a1b1dc2b009e22f96dd7bc1e90d44c84a51d8c02ff39b00c53cfbff573",
+  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11601/TahdiriPro-Android-0.2.0-secure2-v11601.apk",
+  "sha256": "2bb8b3f3bc56b55035350d4852dae36634445b136528083c805f28afcac9c355",
   "signerSha256": "0b204fddd59ce9f9dd563d68e4188173c316be2e110c8823a57977a7401c4896",
   "status": "stable",
-  "securityChannel": "secure-v1",
-  "notes": "قناة Secure: سياسة تشغيل موقعة، إيقاف مركزي، حد أدنى للإصدار، بيانات تحديث موقعة، والتحقق من الحزمة والإصدار وتوقيع APK."
+  "securityChannel": "secure-v2",
+  "notes": "سياسة تشغيل موقعة، تحكم مركزي بالإصدار والجهاز، قناة تحديث موقعة، والتحقق من الحزمة والإصدار وتوقيع APK."
 }
