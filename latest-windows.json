@@ -1,9 +1,9 @@
 {
-  "versionCode": 11900,
-  "versionName": "0.1.19",
-  "exeUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11900/TahdiriPro-Windows-0.1.19-Secure.exe",
-  "sha256": "b3124df7d978c12fc0d3e9f08cb62056639a52fced3856286c27812936a1ca83",
+  "versionCode": 12000,
+  "versionName": "0.1.20",
+  "exeUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v12000/TahdiriPro-Windows-0.1.20-Secure.exe",
+  "sha256": "9603c458c4fd62a932118c7bbcf91e1d9960aecca9f6e9c588871919b2e0bbb6",
   "status": "stable",
   "securityChannel": "secure-v2",
-  "notes": "سياسة تشغيل موقعة، تحكم مركزي بالإصدار والجهاز، وبيانات تحديث موقعة مع تحقق SHA-256 قبل الاستبدال الآمن."
+  "notes": "إضافة أدوات المعلم والتقارير والخطط وإدارة التحضير والتواصل والتصحيح والتحليل، مع استمرار قناة التحديث والأمان الموقعة."
 }
