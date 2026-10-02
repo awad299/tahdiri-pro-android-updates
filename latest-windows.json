@@ -1,9 +1,9 @@
 {
-  "versionCode": 12002,
-  "versionName": "0.1.22",
-  "exeUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v12002/TahdiriPro-Windows-0.1.22-Secure.exe",
-  "sha256": "aa690285b3e42b7747f8728c63170d9e3d46e6dee69019288dfa0ae2915d7f2b",
+  "versionCode": 12003,
+  "versionName": "0.1.23",
+  "exeUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v12003/TahdiriPro-Windows-0.1.23-Secure.exe",
+  "sha256": "85f5a49cda1916b6f32080eb5ec751c603b723a9f9ff891cec71a75071c508bf",
   "status": "stable",
   "securityChannel": "secure-v2",
-  "notes": "واجهة جديدة بأربع نوافذ رئيسية مرتبة، تنظيم حديث للخدمات، وتحسين عرض الجوال مع استمرار جميع خدمات المعلم."
+  "notes": "إزالة شاشات التشخيص والتفاصيل التقنية من واجهة المستخدم، مع استمرار التصميم الجديد وجميع خدمات تحضير برو."
 }

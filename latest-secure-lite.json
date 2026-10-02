@@ -1,11 +1,11 @@
 {
-  "versionCode": 11604,
-  "versionName": "0.2.3",
+  "versionCode": 11605,
+  "versionName": "0.2.4",
   "packageName": "sa.tahdiripro.mobile.litepilot",
-  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11604/TahdiriPro-Android-0.2.3-v11604.apk",
-  "sha256": "1361230e9bcaf30edf61871c23309b3673febec50ee3e74111961665342172a6",
+  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11605/TahdiriPro-Android-0.2.4-v11605.apk",
+  "sha256": "d09433dab2ff6d6c1d30f82329b078f4f3a0c0f9c1ddbb3420f41a73dc74662b",
   "signerSha256": "0b204fddd59ce9f9dd563d68e4188173c316be2e110c8823a57977a7401c4896",
   "status": "stable",
   "securityChannel": "secure-v2",
-  "notes": "واجهة جديدة بأربع نوافذ رئيسية مرتبة، تنظيم حديث للخدمات، وتحسين عرض الجوال مع استمرار جميع خدمات المعلم."
+  "notes": "إزالة شاشة التشخيص ومعلومات WebView/Proxy/Host/Err ورسائل الأمان التقنية من العرض، مع استمرار جميع خدمات تحضير برو."
 }
