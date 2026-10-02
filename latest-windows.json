@@ -1,9 +1,9 @@
 {
-  "versionCode": 12007,
-  "versionName": "0.1.27",
-  "exeUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v12007/TahdiriPro-Windows-0.1.27-Secure.exe",
-  "sha256": "605ff298491c8f0ae5837965a60dc10a98cefaddfca1f779b3f9b61f9c7a8916",
+  "versionCode": 12008,
+  "versionName": "0.1.28",
+  "exeUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v12008/TahdiriPro-Windows-0.1.28-Secure.exe",
+  "sha256": "4a5244b0b5a945771e8c173a1a084b9cbc59d2a90ad99a0b92bdd51276ea7663",
   "status": "stable",
   "securityChannel": "secure-v2",
-  "notes": "تحسين واجهة الجوال ومنع تداخل خيارات التسليم، مع تثبيت اختبار دورة الواجب داخل مدرستي."
+  "notes": "تحسين واجهة التحضير والجوال: توضيح طريقة تسليم الطالب للواجب، تحسين الاختيار الذكي والحفظ، وتحسين الجدول مع عرض جوال يومي جديد."
 }
