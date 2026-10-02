@@ -1,11 +1,11 @@
 {
-  "versionCode": 11606,
-  "versionName": "0.2.5",
+  "versionCode": 11607,
+  "versionName": "0.2.6",
   "packageName": "sa.tahdiripro.mobile.litepilot",
-  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11606/TahdiriPro-Android-0.2.5-v11606.apk",
-  "sha256": "5e88847fc446ee18b49cd29070897d228b76e3adc1ced21ba5b54655d3bc08db",
+  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11607/TahdiriPro-Android-0.2.6-v11607.apk",
+  "sha256": "c07409ffcc0ee6ccf323b03777be8d67d94ce916f9006a9fbef1a5e49ecbe149",
   "signerSha256": "0b204fddd59ce9f9dd563d68e4188173c316be2e110c8823a57977a7401c4896",
   "status": "stable",
   "securityChannel": "secure-v2",
-  "notes": "واجهة عمل مستقلة للرئيسية والتحضير والحذف والخطة الأسبوعية وتقريري، وتحسين الخدمات الإضافية والملفات المهنية."
+  "notes": "يفتح تحضير الحصص مباشرة بقوائم أفقية وخط أوضح، مع حذف تحضير بجدول أسبوعي واختيار ذكي بحصص ثقيلة متصلة ومراجعة أسبوعية، وتوسعة توزيع المنهج."
 }

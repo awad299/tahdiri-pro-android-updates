@@ -1,9 +1,9 @@
 {
-  "versionCode": 12004,
-  "versionName": "0.1.24",
-  "exeUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v12004/TahdiriPro-Windows-0.1.24-Secure.exe",
-  "sha256": "b5c29bba0826ec5e63f615f2240be69e4265ffc60615ea0fc6814b5f8f55705c",
+  "versionCode": 12005,
+  "versionName": "0.1.25",
+  "exeUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v12005/TahdiriPro-Windows-0.1.25-Secure.exe",
+  "sha256": "a310276493d312e9929bdb4914d88d162eadc0cd5eab9ccc6c278ae529acfb2d",
   "status": "stable",
   "securityChannel": "secure-v2",
-  "notes": "واجهة عمل مستقلة للرئيسية والتحضير والحذف والخطة الأسبوعية وتقريري، وتحسين الخدمات الإضافية والملفات المهنية."
+  "notes": "يفتح تحضير الحصص مباشرة بقوائم أفقية وخط أوضح، مع حذف تحضير بجدول أسبوعي واختيار ذكي بحصص ثقيلة متصلة ومراجعة أسبوعية، وتوسعة توزيع المنهج."
 }
