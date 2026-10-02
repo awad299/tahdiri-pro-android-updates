@@ -19,6 +19,14 @@
       "licenseRequired": false,
       "authorizedDeviceHashes": [],
       "revokedDeviceHashes": []
+    },
+    "iosNative": {
+      "enabled": true,
+      "minimumVersionCode": 13001,
+      "blockedVersionCodes": [],
+      "licenseRequired": false,
+      "authorizedDeviceHashes": [],
+      "revokedDeviceHashes": []
     }
   }
 }
