@@ -1,11 +1,11 @@
 {
-  "versionCode": 11608,
-  "versionName": "0.2.7",
+  "versionCode": 11609,
+  "versionName": "0.2.8",
   "packageName": "sa.tahdiripro.mobile.litepilot",
-  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11608/TahdiriPro-Android-0.2.7-v11608.apk",
-  "sha256": "f120cfd9eb6683c21a21addd0cb0823e79635aa03c2e9f99ff42fe988a8c4cce",
+  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11609/TahdiriPro-Android-0.2.8-v11609.apk",
+  "sha256": "9a883aed6ba886fbf37f50bf1ac90c5d818110c562d9641661aef4f491c3892a",
   "signerSha256": "0b204fddd59ce9f9dd563d68e4188173c316be2e110c8823a57977a7401c4896",
   "status": "stable",
   "securityChannel": "secure-v2",
-  "notes": "الواجبات الجديدة تُحل داخل مدرستي افتراضيًا بدل خارج النظام."
+  "notes": "تحسين واجهة الجوال ومنع تداخل خيارات التسليم، مع تثبيت اختبار دورة الواجب داخل مدرستي."
 }

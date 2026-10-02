@@ -1,9 +1,9 @@
 {
-  "versionCode": 12006,
-  "versionName": "0.1.26",
-  "exeUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v12006/TahdiriPro-Windows-0.1.26-Secure.exe",
-  "sha256": "f8826724d6acea41463326dcc4ade3aeee6305574be48cbfd0bb00e25c3a0834",
+  "versionCode": 12007,
+  "versionName": "0.1.27",
+  "exeUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v12007/TahdiriPro-Windows-0.1.27-Secure.exe",
+  "sha256": "605ff298491c8f0ae5837965a60dc10a98cefaddfca1f779b3f9b61f9c7a8916",
   "status": "stable",
   "securityChannel": "secure-v2",
-  "notes": "الواجبات الجديدة تُحل داخل مدرستي افتراضيًا بدل خارج النظام."
+  "notes": "تحسين واجهة الجوال ومنع تداخل خيارات التسليم، مع تثبيت اختبار دورة الواجب داخل مدرستي."
 }
