@@ -1,9 +1,9 @@
 {
-  "versionCode": 12005,
-  "versionName": "0.1.25",
-  "exeUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v12005/TahdiriPro-Windows-0.1.25-Secure.exe",
-  "sha256": "a310276493d312e9929bdb4914d88d162eadc0cd5eab9ccc6c278ae529acfb2d",
+  "versionCode": 12006,
+  "versionName": "0.1.26",
+  "exeUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v12006/TahdiriPro-Windows-0.1.26-Secure.exe",
+  "sha256": "f8826724d6acea41463326dcc4ade3aeee6305574be48cbfd0bb00e25c3a0834",
   "status": "stable",
   "securityChannel": "secure-v2",
-  "notes": "يفتح تحضير الحصص مباشرة بقوائم أفقية وخط أوضح، مع حذف تحضير بجدول أسبوعي واختيار ذكي بحصص ثقيلة متصلة ومراجعة أسبوعية، وتوسعة توزيع المنهج."
+  "notes": "الواجبات الجديدة تُحل داخل مدرستي افتراضيًا بدل خارج النظام."
 }
