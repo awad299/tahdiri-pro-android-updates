@@ -1,11 +1,11 @@
 {
-  "versionCode": 11610,
-  "versionName": "0.2.9",
+  "versionCode": 11611,
+  "versionName": "0.2.10",
   "packageName": "sa.tahdiripro.mobile.litepilot",
-  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11610/TahdiriPro-Android-0.2.9-v11610.apk",
-  "sha256": "d60ffa8aedda101bccf975ed191e736937b241f2e0190f307cabd558d7161d66",
+  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11611/TahdiriPro-Android-0.2.10-v11611.apk",
+  "sha256": "d725632d4057d0bec88f055c92987e2b8422e9af1139f54429940b9359e70f7a",
   "signerSha256": "0b204fddd59ce9f9dd563d68e4188173c316be2e110c8823a57977a7401c4896",
   "status": "stable",
   "securityChannel": "secure-v2",
-  "notes": "تحسين واجهة التحضير والجوال: توضيح طريقة تسليم الطالب للواجب، تحسين الاختيار الذكي والحفظ، وتحسين الجدول مع عرض جوال يومي جديد."
+  "notes": "اشتراك موحّد بحساب منصة مدرستي: تجربة 7 أيام للحساب الجديد، والعمل بنفس الحساب على أكثر من جهاز دون مفتاح جهاز."
 }
