@@ -1,11 +1,11 @@
 {
-  "versionCode": 11612,
-  "versionName": "0.2.11",
+  "versionCode": 11613,
+  "versionName": "0.2.12",
   "packageName": "sa.tahdiripro.mobile.litepilot",
-  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11612/TahdiriPro-Android-0.2.11-v11612.apk",
-  "sha256": "eeb58f68c4a8bb32892d82cfc6610db10ca6bc99e118b33e0059712b0e61374e",
+  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11613/TahdiriPro-Android-0.2.12-v11613.apk",
+  "sha256": "2b2c04ff6f2b7b6181bbdd364234e0a3a492cf912e69a704546295c778edf6e5",
   "signerSha256": "0b204fddd59ce9f9dd563d68e4188173c316be2e110c8823a57977a7401c4896",
   "status": "stable",
   "securityChannel": "secure-v2",
-  "notes": "إصلاح التعرف التلقائي على بريد حساب منصة مدرستي في أندرويد، مع انتظار آمن لاكتمال تسجيل الدخول واستمرار الاشتراك المرتبط بالحساب."
+  "notes": "تحديث لمرة واحدة إلى المشغّل البعيد الموقّع، مع إصلاح التعرف على البريد وإظهار أيقونة تحضير برو. بعده تصل معظم إصلاحات تحضير برو عن بُعد دون APK جديد."
 }

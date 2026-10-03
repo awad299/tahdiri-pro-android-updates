@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "issuedAt": "2026-10-03T06:59:52Z",
+  "issuedAt": "2026-10-03T09:05:59Z",
   "expiresAt": "2027-10-01T00:00:00Z",
   "message": "هذه النسخة من تحضير برو لم تعد مدعومة أو غير مصرح لها. حدّث التطبيق من المصدر الرسمي للمتابعة.",
   "platforms": {
     "windows": {
       "enabled": true,
-      "minimumVersionCode": 12009,
+      "minimumVersionCode": 12010,
       "blockedVersionCodes": [],
       "licenseRequired": true,
       "authorizedDeviceHashes": [],
@@ -14,7 +14,7 @@
     },
     "androidLite": {
       "enabled": true,
-      "minimumVersionCode": 11612,
+      "minimumVersionCode": 11613,
       "blockedVersionCodes": [],
       "licenseRequired": true,
       "authorizedDeviceHashes": [],

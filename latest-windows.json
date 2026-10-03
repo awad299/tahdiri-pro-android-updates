@@ -1,9 +1,9 @@
 {
-  "versionCode": 12009,
-  "versionName": "0.1.29",
-  "exeUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v12009/TahdiriPro-Windows-0.1.29-Secure.exe",
-  "sha256": "94032cbe82c22eaa3b2ef8b705635d2fee16e3da1edf15529cb1aee0e22f0e83",
+  "versionCode": 12010,
+  "versionName": "0.1.30",
+  "exeUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v12010/TahdiriPro-Windows-0.1.30-Secure.exe",
+  "sha256": "e89c87a67290b7954ccfb53849c5d23eefd8698bd3e4a5822e198fd42927a999",
   "status": "stable",
   "securityChannel": "secure-v2",
-  "notes": "اشتراك موحّد بحساب منصة مدرستي: تجربة 7 أيام للحساب الجديد، والعمل بنفس الحساب على أكثر من جهاز دون مفتاح جهاز."
+  "notes": "تحديث لمرة واحدة إلى المشغّل البعيد الموقّع، مع إصلاح التعرف على البريد وإظهار أيقونة تحضير برو. بعده تصل معظم إصلاحات تحضير برو عن بُعد دون EXE جديد."
 }
