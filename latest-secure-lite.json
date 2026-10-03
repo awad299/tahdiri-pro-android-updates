@@ -1,11 +1,11 @@
 {
-  "versionCode": 11611,
-  "versionName": "0.2.10",
+  "versionCode": 11612,
+  "versionName": "0.2.11",
   "packageName": "sa.tahdiripro.mobile.litepilot",
-  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11611/TahdiriPro-Android-0.2.10-v11611.apk",
-  "sha256": "d725632d4057d0bec88f055c92987e2b8422e9af1139f54429940b9359e70f7a",
+  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11612/TahdiriPro-Android-0.2.11-v11612.apk",
+  "sha256": "eeb58f68c4a8bb32892d82cfc6610db10ca6bc99e118b33e0059712b0e61374e",
   "signerSha256": "0b204fddd59ce9f9dd563d68e4188173c316be2e110c8823a57977a7401c4896",
   "status": "stable",
   "securityChannel": "secure-v2",
-  "notes": "اشتراك موحّد بحساب منصة مدرستي: تجربة 7 أيام للحساب الجديد، والعمل بنفس الحساب على أكثر من جهاز دون مفتاح جهاز."
+  "notes": "إصلاح التعرف التلقائي على بريد حساب منصة مدرستي في أندرويد، مع انتظار آمن لاكتمال تسجيل الدخول واستمرار الاشتراك المرتبط بالحساب."
 }
