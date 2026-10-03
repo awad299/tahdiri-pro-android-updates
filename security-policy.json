@@ -35,6 +35,14 @@
       "licenseRequired": true,
       "authorizedDeviceHashes": [],
       "revokedDeviceHashes": []
+    },
+    "cloudWeb": {
+      "enabled": true,
+      "minimumVersionCode": 14001,
+      "blockedVersionCodes": [],
+      "licenseRequired": true,
+      "authorizedDeviceHashes": [],
+      "revokedDeviceHashes": []
     }
   }
 }
