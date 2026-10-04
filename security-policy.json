@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "issuedAt": "2026-10-03T09:05:59Z",
+  "issuedAt": "2026-10-04T07:52:13Z",
   "expiresAt": "2027-10-01T00:00:00Z",
   "message": "هذه النسخة من تحضير برو لم تعد مدعومة أو غير مصرح لها. حدّث التطبيق من المصدر الرسمي للمتابعة.",
   "platforms": {
@@ -39,6 +39,14 @@
     "cloudWeb": {
       "enabled": true,
       "minimumVersionCode": 14001,
+      "blockedVersionCodes": [],
+      "licenseRequired": true,
+      "authorizedDeviceHashes": [],
+      "revokedDeviceHashes": []
+    },
+    "iosGear": {
+      "enabled": true,
+      "minimumVersionCode": 1016,
       "blockedVersionCodes": [],
       "licenseRequired": true,
       "authorizedDeviceHashes": [],
