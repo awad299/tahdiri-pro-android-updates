@@ -1,9 +1,9 @@
 {
-  "versionCode": 12010,
-  "versionName": "0.1.30",
-  "exeUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v12010/TahdiriPro-Windows-0.1.30-Secure.exe",
-  "sha256": "e89c87a67290b7954ccfb53849c5d23eefd8698bd3e4a5822e198fd42927a999",
+  "versionCode": 12011,
+  "versionName": "0.1.31",
+  "exeUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v12011/TahdiriPro-Windows-0.1.31-Secure.exe",
+  "sha256": "162db7eb1aae83f2c473de319a03255159f6bae33fbbc65740a8c2e728001565",
   "status": "stable",
   "securityChannel": "secure-v2",
-  "notes": "تحديث لمرة واحدة إلى المشغّل البعيد الموقّع، مع إصلاح التعرف على البريد وإظهار أيقونة تحضير برو. بعده تصل معظم إصلاحات تحضير برو عن بُعد دون EXE جديد."
+  "notes": "تحديث المشغّل إلى التحديث الصامت الموقّع. تحديثات الواجهة والمنطق العادية تستمر عن بُعد دون EXE جديد."
 }
