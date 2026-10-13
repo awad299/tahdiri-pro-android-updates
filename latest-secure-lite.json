@@ -1,11 +1,11 @@
 {
-  "versionCode": 11615,
-  "versionName": "0.2.14",
+  "versionCode": 11616,
+  "versionName": "0.2.15",
   "packageName": "sa.tahdiripro.mobile.litepilot",
-  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11615/TahdiriPro-Android-0.2.14-v11615.apk",
-  "sha256": "256b394221ff6be2b9efd8cf43526331387ec8f9d244e8284a8e159995ef33f8",
+  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11616/TahdiriPro-Android-0.2.15-v11616.apk",
+  "sha256": "2b49a5d80df5610fa368931721217260a9bf7fe9ef7094f125c3624815d344d1",
   "signerSha256": "0b204fddd59ce9f9dd563d68e4188173c316be2e110c8823a57977a7401c4896",
   "status": "stable",
   "securityChannel": "secure-v2",
-  "notes": "إصلاح تحميل الواجهة الجديدة بعد تحديث التطبيق، وتجهيز التحديثات القادمة تلقائيًا في الخلفية قبل تأكيد أندرويد النهائي."
+  "notes": "تقوية اتصال أندرويد وتسجيل الدخول: إبقاء WebView على شبكة النظام الافتراضية، معالجة تحويل تسجيل الدخول بشكل أصلي، واستئناف محدود بعد عودة شبكة موثقة."
 }
