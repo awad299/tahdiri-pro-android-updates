@@ -1,11 +1,11 @@
 {
-  "versionCode": 11616,
-  "versionName": "0.2.15",
+  "versionCode": 11617,
+  "versionName": "0.2.16",
   "packageName": "sa.tahdiripro.mobile.litepilot",
-  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11616/TahdiriPro-Android-0.2.15-v11616.apk",
-  "sha256": "2b49a5d80df5610fa368931721217260a9bf7fe9ef7094f125c3624815d344d1",
+  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11617/TahdiriPro-Android-0.2.16-v11617.apk",
+  "sha256": "6450aaafd67dd4e7dab92ed7bb647a5cc2465c95fce0dbd3adb7a2a42db66977",
   "signerSha256": "0b204fddd59ce9f9dd563d68e4188173c316be2e110c8823a57977a7401c4896",
   "status": "stable",
   "securityChannel": "secure-v2",
-  "notes": "تقوية اتصال أندرويد وتسجيل الدخول: إبقاء WebView على شبكة النظام الافتراضية، معالجة تحويل تسجيل الدخول بشكل أصلي، واستئناف محدود بعد عودة شبكة موثقة."
+  "notes": "إصلاح الاستعادة التلقائية من جلسة مدرستي القديمة التي تظهر بدون دور/مدرسة مفعلة: ينفذ التطبيق إعادة مصادقة واحدة محدودة بدل إبقاء المستخدم في صفحة الدور غير الصالح."
 }
