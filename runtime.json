@@ -1,7 +1,7 @@
 {
-    "status":  "stable",
-    "sha256":  "7a3351bb1607bf9b692dde26e0669f86301017e3712381a0d6b7858862ab7d9c",
-    "schema":  1,
-    "zipUrl":  "https://tahdiri-pro.netlify.app/runtime/tahdiri-runtime-2026101501.zip",
-    "versionCode":  2026101501
+    "status": "stable",
+    "sha256": "40ecc6cb69c72df4757c5982c7e0c719c1da5fa4a20e24af023ece8cfc938970",
+    "schema": 1,
+    "zipUrl": "https://tahdiri-pro.netlify.app/runtime/tahdiri-runtime-2026101601.zip",
+    "versionCode": 2026101601
 }
