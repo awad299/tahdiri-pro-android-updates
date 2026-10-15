@@ -1,9 +1,9 @@
 {
-  "versionCode": 12011,
-  "versionName": "0.1.31",
-  "exeUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v12011/TahdiriPro-Windows-0.1.31-Secure.exe",
-  "sha256": "162db7eb1aae83f2c473de319a03255159f6bae33fbbc65740a8c2e728001565",
+  "versionCode": 12012,
+  "versionName": "0.1.32",
+  "exeUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v12012/TahdiriPro-Windows-0.1.32-Secure.exe",
+  "sha256": "8b6c7eead1fff0f2105702d42bbf418e9a62c5f79ac097050e0aafddacf51769",
   "status": "stable",
   "securityChannel": "secure-v2",
-  "notes": "تحديث المشغّل إلى التحديث الصامت الموقّع. تحديثات الواجهة والمنطق العادية تستمر عن بُعد دون EXE جديد."
+  "notes": "نسخة انتقال آمنة تستعيد التوقيع المحلي الأصلي وتبقي التحديثات الصامتة الموقعة تعمل."
 }

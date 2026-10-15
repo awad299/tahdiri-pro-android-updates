@@ -1,11 +1,11 @@
 {
-  "versionCode": 11617,
-  "versionName": "0.2.16",
+  "versionCode": 11618,
+  "versionName": "0.2.17",
   "packageName": "sa.tahdiripro.mobile.litepilot",
-  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11617/TahdiriPro-Android-0.2.16-v11617.apk",
-  "sha256": "6450aaafd67dd4e7dab92ed7bb647a5cc2465c95fce0dbd3adb7a2a42db66977",
+  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11618/TahdiriPro-Android-0.2.17-v11618.apk",
+  "sha256": "a08551f336d6934cf6083b162bdf23e1634322649820179df280a71d6e88c83e",
   "signerSha256": "0b204fddd59ce9f9dd563d68e4188173c316be2e110c8823a57977a7401c4896",
   "status": "stable",
   "securityChannel": "secure-v2",
-  "notes": "إصلاح الاستعادة التلقائية من جلسة مدرستي القديمة التي تظهر بدون دور/مدرسة مفعلة: ينفذ التطبيق إعادة مصادقة واحدة محدودة بدل إبقاء المستخدم في صفحة الدور غير الصالح."
+  "notes": "إصلاح أصلي لمسار شبكة مدرستي واستعادة الجلسة، مع الحفاظ على سلسلة التوقيع الدائمة والتحديث الصامت."
 }
