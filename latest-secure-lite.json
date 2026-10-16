@@ -1,11 +1,11 @@
 {
-  "versionCode": 11618,
-  "versionName": "0.2.17",
+  "versionCode": 11619,
+  "versionName": "0.2.18",
   "packageName": "sa.tahdiripro.mobile.litepilot",
-  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11618/TahdiriPro-Android-0.2.17-v11618.apk",
-  "sha256": "a08551f336d6934cf6083b162bdf23e1634322649820179df280a71d6e88c83e",
+  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11619/TahdiriPro-Android-0.2.18-v11619.apk",
+  "sha256": "95d5151dc29c55c750ad87580b687fa361108452567c896260705793f9fa646f",
   "signerSha256": "0b204fddd59ce9f9dd563d68e4188173c316be2e110c8823a57977a7401c4896",
   "status": "stable",
   "securityChannel": "secure-v2",
-  "notes": "إصلاح أصلي لمسار شبكة مدرستي واستعادة الجلسة، مع الحفاظ على سلسلة التوقيع الدائمة والتحديث الصامت."
+  "notes": "واجهة أبسط وأوضح، إزالة شريط مدرستي/تحديث/رجوع القديم من أعلى التطبيق، وتحسين أحجام الخطوط والأزرار والتنقل مع الحفاظ على التوقيع الدائم والتحديث الآمن."
 }
