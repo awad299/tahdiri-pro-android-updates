@@ -1,0 +1,3 @@
+# Exact-byte signed update artifacts: never rewrite line endings or treat signatures as diffable text.
+*.json binary
+*.sig binary
