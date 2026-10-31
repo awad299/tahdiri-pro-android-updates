@@ -1,11 +1,11 @@
 {
-  "versionCode": 11619,
-  "versionName": "0.2.18",
+  "versionCode": 11620,
+  "versionName": "0.2.19",
   "packageName": "sa.tahdiripro.mobile.litepilot",
-  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11619/TahdiriPro-Android-0.2.18-v11619.apk",
-  "sha256": "95d5151dc29c55c750ad87580b687fa361108452567c896260705793f9fa646f",
+  "apkUrl": "https://github.com/awad299/tahdiri-pro-android-updates/releases/download/v11620/TahdiriPro-Android-0.2.19-v11620.apk",
+  "sha256": "e544b44160a3289ed0e1d45e0e8e8ccb2cbc2c7067afd7484346686f3724e5e1",
   "signerSha256": "0b204fddd59ce9f9dd563d68e4188173c316be2e110c8823a57977a7401c4896",
   "status": "stable",
   "securityChannel": "secure-v2",
-  "notes": "واجهة أبسط وأوضح، إزالة شريط مدرستي/تحديث/رجوع القديم من أعلى التطبيق، وتحسين أحجام الخطوط والأزرار والتنقل مع الحفاظ على التوقيع الدائم والتحديث الآمن."
+  "notes": "إصلاح حفظ كشف الدرجات CSV وPDF ونسخ الفصل JSON عبر نافذة حفظ أندرويد، دون تعديل سجلات مدرستي."
 }
