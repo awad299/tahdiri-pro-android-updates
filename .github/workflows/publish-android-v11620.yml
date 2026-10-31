@@ -1,0 +1,38 @@
+name: Publish signed Android v11620
+
+on:
+  push:
+    tags:
+      - v11620
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    if: github.repository == 'awad299/tahdiri-pro-android-updates'
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Download verified signed APK from owner production
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl --fail --location --retry 2 --connect-timeout 15 --max-time 90 \
+            'https://tahdiri-pro.netlify.app/downloads/TahdiriPro-Android-0.2.19-v11620.apk' \
+            --output TahdiriPro-Android-0.2.19-v11620.apk
+          echo 'e544b44160a3289ed0e1d45e0e8e8ccb2cbc2c7067afd7484346686f3724e5e1  TahdiriPro-Android-0.2.19-v11620.apk' | sha256sum --check --status
+          test "$(stat -c %s TahdiriPro-Android-0.2.19-v11620.apk)" -eq 2620579
+          echo 'ANDROID_APK_SHA256_AND_SIZE_VERIFIED=true'
+      - name: Publish GitHub release asset for pinned secure updater
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          gh release create v11620 \
+            TahdiriPro-Android-0.2.19-v11620.apk \
+            --verify-tag \
+            --title 'Tahdiri Pro Android 0.2.19' \
+            --notes 'Signed Android 0.2.19 / 11620. Native save picker for classroom CSV/PDF/JSON exports. SHA-256 e544b44160a3289ed0e1d45e0e8e8ccb2cbc2c7067afd7484346686f3724e5e1. Maintains original permanent APK signing key and all local classroom data.'
